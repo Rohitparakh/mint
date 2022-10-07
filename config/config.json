@@ -1,14 +1,14 @@
 {
-  "CONTRACT_ADDRESS": "0xcD306b3139adea2DF3475455Ce69ba342B2DFB90",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xcD306b3139adea2DF3475455Ce69ba342B2DFB90",
+  "CONTRACT_ADDRESS": "0x3790AE4f5Cf19D37f3F934448c833cFc19fDfE0e",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x3790AE4f5Cf19D37f3F934448c833cFc19fDfE0e",
   "NETWORK": {
-    "NAME": "Ethereum",
+    "NAME": "Goerly",
     "SYMBOL": "ETH",
-    "ID": 1
+    "ID": 5
   },
   "NFT_NAME": "MESSY CATS UNIQUE",
   "SYMBOL": "MCU",
-  "MAX_SUPPLY": 111,
+  "MAX_SUPPLY": 2500,
   "WEI_COST": 9900000000000000,
   "DISPLAY_COST": 0.0099,
   "GAS_LIMIT": 110000,
